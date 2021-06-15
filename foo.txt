@@ -1,0 +1,7 @@
+1. write:
+Here is some text
+And here is some more text!!
+
+2. writelines
+Here is some text
+And here is some more text!!!
